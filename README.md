@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 ## Training
-The model was trained on the blackclover\colored subdirectory of the japanese manga dataset which can be obtained from kaggle. [Link to Dataset](https://www.kaggle.com/datasets/chandlertimm/unified/data)
+The final model was trained on the blackclover\colored subdirectory of the japanese manga dataset which can be obtained from kaggle. [Link to Dataset](https://www.kaggle.com/datasets/chandlertimm/unified/data)
 
 The model can be trained by running:
 ```
