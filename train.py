@@ -448,8 +448,6 @@ def main(args):
             
     net_G=ColorNet()
     model = ColorNetGAN(net_G=net_G)
-    print(model.load_state_dict(torch.load('./weights/full_model_manga_finetuned_last.pt')))
-    print('\n\n')
     
     def train_model(model, train_dl, epochs, display_every=200):
         for e in range(epochs+1):
