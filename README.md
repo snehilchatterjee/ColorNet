@@ -25,7 +25,7 @@ Other parameters:
 ```
 
 ## Inference
-If you just wish to try out the model, the trained weights can be downloaded here: [Download Weights](https://drive.google.com/file/d/1WdknbykO5RLg-ydciHyOU864vEJQDTJl/view?usp=sharing). Copy the downloaded file to the weights subdirectory.
+If you just wish to try out the model, the trained weights can be downloaded here: [Download Weights](https://drive.google.com/file/d/1s85YlV0rPlmLVzFW6irSxqnKiAzyi_Om/view?usp=sharing). Copy the downloaded file to the weights subdirectory.
 
 After obtaining the weights(through training or from the link provided above), the inference app can be run using:
 ```
