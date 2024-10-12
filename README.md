@@ -42,6 +42,9 @@ Example:
 python convert.py ./Dataset/ds/onepiece/colored ./Dataset/ds/onepiece/L
 ```
 
+### AMD AI Challenge Winning Project (3rd Rank): https://www.hackster.io/primex/colorizing-sequential-content-colornet-17c8d5
+
+
 
 
 
